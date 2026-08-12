@@ -1,0 +1,25 @@
+# ===== Excel temp / lock files =====
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+*.tmp
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Backup files =====
+*.bak
+*~
+
+# ===== Editor / IDE =====
+.vscode/
+.idea/
+
+# ===== Logs =====
+*.log
+
+# ===== Optional: uncomment if you don't want to track raw/processed data or workbooks =====
+# Data/*.csv
+# Excel/*.xlsx
