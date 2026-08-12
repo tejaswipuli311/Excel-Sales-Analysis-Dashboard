@@ -4,7 +4,7 @@ An end-to-end Sales Analysis project built using Microsoft Excel to transform ra
 
 The project analyzes customer, product, order, revenue, and delivery information to identify sales trends, top-performing products, customer behavior, and other business insights.
 
-📄 **License:** MIT
+📄 **License:** MIT | 🔗 **[View project post on LinkedIn](https://lnkd.in/p/dZyYtDXz)**
 
 ---
 
@@ -186,9 +186,8 @@ The dashboard contains the following major KPIs:
 
 The Excel dashboard provides an interactive view of the sales data.
 
-<!-- Add a screenshot of your dashboard here, e.g.:
-![Dashboard Overview](Images/dashboard-overview.png)
--->
+![Dashboard Overview](Images/Dashboard.png)
+
 
 ### Dashboard Components
 - Revenue by Occasions
